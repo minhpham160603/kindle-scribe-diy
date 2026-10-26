@@ -255,3 +255,7 @@ You can drive the Kindle entirely over SSH:
 - KindleModding: https://kindlemodding.org
 - KOReader source (`frontend/device/input.lua`, `gesturedetector.lua`, `ffi/framebuffer_mxcfb.lua`, `frontend/userpatch.lua`): https://github.com/koreader/koreader
 - FBInk (MTK/hwtcon refresh constraints documented in its sources): https://github.com/NiLuJe/FBInk
+
+## License
+
+This guide, including its code snippets, is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](LICENSE). You may share and adapt it, including commercially, as long as you give credit.
