@@ -5,6 +5,8 @@ Notes for technical users who want to replace the Kindle Scribe's stock interfac
 This is the groundwork only. The full UI built on it ("Kindle OS": home grid, PDF pen annotation, notebook, split screen) will be open-sourced separately later.
 
 > You do this at your own risk. A jailbreak doesn't touch the bootloader, but editing system files afterwards can brick the device. Don't do it on a Kindle you can't afford to lose.
+>
+> This project is not affiliated with, endorsed by, or sponsored by Amazon. Kindle and Kindle Scribe are trademarks of Amazon.com, Inc. or its affiliates, and are used here only to describe compatibility. Nothing here covers removing DRM from books.
 
 ---
 
